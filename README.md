@@ -24,7 +24,7 @@ N/A
 
 ## Usage
 
-This is the link: https://github.com/arceojoshua94/challenge1-code-refactoring
+This is the link: https://github.com/arceojoshua1994/challenge-1-code-refactoring 
 
 ## Credits
 
